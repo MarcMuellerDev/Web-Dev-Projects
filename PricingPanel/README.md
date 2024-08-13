@@ -1,1 +1,1 @@
-This is my first small project with responsive feature with HTML and CSS.
+This is my first small CSS responsive project.
